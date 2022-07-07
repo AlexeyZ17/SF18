@@ -1,1 +1,7 @@
+TOKEN = "5501053795:AAET9qiIBbh3dyTsC_iwfXQY19xFYSIbXXA"
 
+keys = {
+    "Биткоин": "BTC",
+    "Евро": "EUR",
+    "Доллар": "USD",
+}
